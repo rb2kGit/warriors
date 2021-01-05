@@ -1,0 +1,30 @@
+{
+  "name": "warriors",
+  "version": "1.0.0",
+  "description": "Weightlift warriors web app",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rb2kGit/warriors.git"
+  },
+  "keywords": [
+    "warriors"
+  ],
+  "author": "Arby Shpiragu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rb2kGit/warriors/issues"
+  },
+  "homepage": "https://github.com/rb2kGit/warriors#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "client-sessions": "^0.8.0",
+    "express": "^4.17.1",
+    "express-handlebars": "^5.2.0",
+    "mongodb": "^3.6.3",
+    "node": "^15.4.0"
+  }
+}
